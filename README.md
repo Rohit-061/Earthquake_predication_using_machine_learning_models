@@ -1,8 +1,8 @@
 # Earthquake_predication_using_machine_learning_models
-Team members
-Saurav Raj
-Rohit Pandit
-Ayush Kumar
+Team members:
+Saurav Raj,
+Rohit Pandit,
+Ayush Kumar,
 Shubhanshu Rai
 
 Abstract
